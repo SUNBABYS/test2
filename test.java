@@ -1,3 +1,1 @@
-public static void main(){
-    system.out.println("Hello World");
-   }
+哈哈哈哈哈哈哈
